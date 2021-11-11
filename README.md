@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kouSeek
+- 👀 I’m interested in Python and Machine Learning, especially in Deep Learning(NLP, CV)
+- 💞️ I’m looking to collaborate on python packages useful for automation or Language Processing
+- 📫 How to reach me ckoushikp@gmail.com
